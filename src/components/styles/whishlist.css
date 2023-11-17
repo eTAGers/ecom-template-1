@@ -1,0 +1,5 @@
+a.disabled,
+a.disabled:hover .fas {
+    color: grey !important;
+    cursor: not-allowed;
+}
